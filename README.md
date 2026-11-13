@@ -34,7 +34,7 @@ git clone https://github.com/HarllonCS/table-countries.git
 
 ## Lincese
 
-This project is open-source and available for educational purposes. Consult the **[LICENSE](../4.table-countries/LICENSE)** file.
+This project is open-source and available for educational purposes. Consult the **[LICENSE](./LICENSE)** file.
 
 ## Author and Credits
 
